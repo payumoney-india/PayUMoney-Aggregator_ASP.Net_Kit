@@ -1,0 +1,2 @@
+C:\Users\deepak.prasad\Documents\Visual Studio 2010\Projects\PayUMoneyCSharpNew\PayUMoneyCSharpNew\obj\Debug\PayUMoneyCSharpNew.csprojResolveAssemblyReference.cache
+C:\Users\deepak.prasad\Desktop\ASP.NET\PayUMoneyCSharp Json\PayUMoneyCSharpNew\PayUMoneyCSharpNew\obj\Debug\PayUMoneyCSharpNew.csprojResolveAssemblyReference.cache
